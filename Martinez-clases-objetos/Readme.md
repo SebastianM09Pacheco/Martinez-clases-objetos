@@ -1,5 +1,13 @@
 # Proyecto de Clases y Objetos en C#
 
+## Datos del autor
+
+Nombre: Sebastián Martínez
+
+Matrícula: 2024-0918
+
+Asignatura: Programación Básica
+
 ## Sobre el proyecto
 
 Este proyecto lo realicé como parte de una actividad de programación en C#. La idea es trabajar con clases y objetos creando un pequeño registro de productos.
